@@ -1,0 +1,9 @@
+.pwe-metamask-button {
+	display: none;
+	width: 304px;
+	height: 89px;
+	background-size: 100%;
+	cursor: pointer;
+	text-indent: -99999px;
+	margin-bottom: 1em;
+}
